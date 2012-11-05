@@ -3,7 +3,7 @@
 /**
  * FormGenerator class
  * Classe per generare in modo dinamico tutti
- * gli input HTML
+ * gli input in HTML
  * 
  * @filesource FormGenerator.php
  * @author Vecchio Concetto

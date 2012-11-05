@@ -74,7 +74,7 @@ class FormGenerator {
     }
 
     /**
-     * Genero gli input HTML
+     * Genero gli input in HTML
      * 
      * @param type $data
      * @return boolean 

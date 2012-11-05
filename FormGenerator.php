@@ -2,7 +2,7 @@
 
 /**
  * FormGenerator class
- * Classe per generare in moto dinamico tutti
+ * Classe per generare in modo dinamico tutti
  * gli input HTML
  * 
  * @filesource FormGenerator.php

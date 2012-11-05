@@ -103,7 +103,7 @@ class FormGenerator {
     }
 
     /**
-     * Genero gli input HTML
+     * Genero gli input in HTML
      * Consentire delle scelte (checkbox, radio)
      * 
      * @param type $data

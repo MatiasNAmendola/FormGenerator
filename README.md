@@ -3,4 +3,4 @@ form-generator
 
 Form Generator PHP
 
-Create professional web forms in minutes.
+Create Unlimited professional web forms in minutes.

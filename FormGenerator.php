@@ -81,6 +81,7 @@ class FormGenerator {
      * @return boolean 
      */
     public function createInput($data = array()) {
+    	
         // controllo che esiste l'array
         $this->checkArray($data);
 
@@ -111,6 +112,7 @@ class FormGenerator {
      * @return boolean 
      */
     public function createRadioChecked($data = array()) {
+    	
         // controllo che esiste l'array
         $this->checkArray($data);
 
@@ -159,6 +161,7 @@ class FormGenerator {
      * @return boolean 
      */
     public function createTextarea($data = array()) {
+    	
         // controllo che esiste l'array
         $this->checkArray($data);
 
@@ -191,6 +194,7 @@ class FormGenerator {
      * @return boolean 
      */
     public function createSelect($data = array()) {
+    	
         // controllo che esiste l'array
         $this->checkArray($data);
 

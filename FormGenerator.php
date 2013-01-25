@@ -7,7 +7,8 @@
  * 
  * @filesource FormGenerator.php
  * @author Vecchio Concetto
- * @version 1.0
+ * @copyright 2013
+ * @version 2.0
  */
 class FormGenerator {
 

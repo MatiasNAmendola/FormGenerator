@@ -4,6 +4,7 @@ include 'FormGenerator.php';
 
 /**
  * Example 
+ * FormGenerator
  */
 $form = array(
     'field' => array(

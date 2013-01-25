@@ -61,7 +61,7 @@ class FormGenerator {
     }
 
     /**
-     * Con l'attributo "selected" si pu√≤ indicare una scelta predefinita
+     * Con l'attributo "selected" si può indicare una scelta predefinita
      * 
      * @param type $selected
      * @param type $key

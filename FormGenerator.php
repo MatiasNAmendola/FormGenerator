@@ -49,7 +49,7 @@ class FormGenerator {
 
     /**
      * E' possibile assegnare un valore di default
-     * per input "radio" oppure "checkbox"
+     * per gli input "radio" oppure i "checkbox"
      * 
      * @param type $checked
      * @param type $key

@@ -240,6 +240,7 @@ class FormGenerator {
      * @return boolean 
      */
     public function createForm($data = array()) {
+    	
         // controllo che esiste l'array
         $this->checkArray($data);
 

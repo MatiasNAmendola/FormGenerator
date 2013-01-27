@@ -307,6 +307,7 @@ class FormGenerator {
                     break;
             }
         }
+        
         if (!empty($string)) {
             return $string;
         }

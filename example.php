@@ -8,7 +8,9 @@ include 'FormGenerator.php';
  * 
  */
 $form = array(
+        
     'field' => array(
+            
         1 => array(
             'label' => 'Name',
             'type' => 'text',
@@ -64,5 +66,8 @@ $form = array(
     )
 );
 
+/**
+ * Example FormGenerator
+ */
 $obj = new FormGenerator();
 echo $obj->createForm($form);
